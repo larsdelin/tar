@@ -17,7 +17,7 @@
 list
 }
 \description{
-Graphs a box plot for results of the one-way anova
+Graphs a box plot for results of the one-way ANOVA
 }
 \details{
 creates a box plot which aids in the immediate comprehension of ANOVA

@@ -12,7 +12,7 @@ oneway(formula, data)
 \item{data}{dataset necessary for analysis}
 }
 \value{
-a list of analysis output
+a list of analysis outputs
 }
 \description{
 Input the formula to test the differences between means within groups of the data with
