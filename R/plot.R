@@ -1,7 +1,7 @@
 #' @title Plot one-way analysis of variance
 #'
 #'@description
-#'Graphs a box plot for results of the one-way anova
+#'Graphs a box plot for results of the one-way ANOVA
 #'
 #'@param analysis takes a oneway(function) with desired data and attributes.
 #'@param col sets color

@@ -7,7 +7,7 @@
 #'@param formula takes a formula for a linear model to find determine the relationship
 #'@param data dataset necessary for analysis
 #'
-#'@return a list of analysis output
+#'@return a list of analysis outputs
 #'
 #'@details takes the necessary formula for analyzing categorical and numeric data columns.
 #'
