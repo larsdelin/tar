@@ -1,6 +1,8 @@
 
 # tar
 
+![](oneway.png)
+
 The goal of tar is to help make oneway analysis of variance (ANOVA) easier to run and interpret.
 
 ## Installation
